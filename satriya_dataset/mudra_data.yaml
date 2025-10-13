@@ -1,0 +1,5 @@
+
+train: E:/sih/satriya_dataset/prepared_mudra_dataset/images/train
+val: E:/sih/satriya_dataset/prepared_mudra_dataset/images/val
+nc: 8
+names: ['Bardhaman', 'Dol', 'Gajadanta', 'Kaput', 'Karkat', 'Makar1', 'Makar2', 'Samput']
