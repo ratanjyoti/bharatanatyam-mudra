@@ -1,5 +1,5 @@
 
 train: E:/sih/satriya_dataset/prepared_dataset/images/train
 val: E:/sih/satriya_dataset/prepared_dataset/images/val
-nc: 1
-names: ['mudra']
+nc: 2
+names: ['mudra', 'hand']
